@@ -1,0 +1,14 @@
+[user]
+	email = dmueller@zipcar.com
+	name = Daniel Mueller
+[color]
+    ui = off
+    diff = auto
+    status = auto
+    branch = auto
+[core]
+    pager = cat
+    autoclrf = input
+    excludesfile = ~/.gitignore
+[fetch]
+    recurseSubmodules = yes
